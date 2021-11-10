@@ -1,7 +1,7 @@
 # Webscrapping
 
 ## HW 3: Scraping from Ebay
- This is homework assignment where the instructions are listed below. In this assignment I am gathering information from 
+ This is homework assignment. The instructions are listed below. In this assignment, I am gathering information from 
  search results from ebay and compiling them into json files. The code goes through your search result and finds certain indicators to 
  identify items name, price, status, shipping cost, return value, and number of items sold.
 <br />
